@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "02/08/2023",
+      "title": "NOTESYNC",
+      "description": "Notesync is a web-based note-taking platform designed to streamline the way users access their notes and ideas. The platform make it easier for users to manage their digital notes effectively.",
+      "url": "https://www.notesync.in/",
+      "imgSrc": "https://media.licdn.com/dms/image/D4D22AQHio7xqpAlZgA/feedshare-shrink_800/0/1692982638719?e=2147483647&v=beta&t=89jf9i4FrNHaMu8DY8R02CtZxqTWK5w4vOdLFjSHgq0"
+    },
+
+    {
+      "date": "10/02/2023",
+      "title": "DOC. FORMATTER",
+      "description": "Whether you're a student working on an academic paper, a professional preparing a business report, or anyone who needs to format text, Doc Formatter is your go-to solution.",
+      "url": "https://document-formatter-react.netlify.app/",
+      "imgSrc": "https://blogs.vmware.com/cloudprovider/files/2022/08/word.png"
+    },
+    {
+      "date": "20/03/2023",
+      "title": "FINANCE FORTUNE",
+      "description": "Finance Fortune is your go-to online resource for staying informed and making informed decisions in the world of coins and cryptocurrencies.",
+      "url": "https://finance-fortune.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "05/05/2023",
+      "title": "TO-DO LIST",
+      "description": "Todo List is a user-friendly and efficient online task management platform designed to help individuals and teams stay organized and productive.",
+      "url": "https://notes-todo-list-reactjs.netlify.app/",
+      "imgSrc": "https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/960x0.jpg?height=474&width=711&fit=bounds"
+    },
+    {
+      "date": "02/09/2023",
+      "title": "PORTFOLIO",
+      "description": "This is my Portfolio. A sample discription about myself. Here, you will find a curated collection of my best work, projects, and accomplishments that highlight my expertise and experiences in development field.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
